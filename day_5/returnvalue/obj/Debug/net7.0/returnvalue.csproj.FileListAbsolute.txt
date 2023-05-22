@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\bin\Debug\net7.0\returnvalue.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\bin\Debug\net7.0\returnvalue.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\bin\Debug\net7.0\returnvalue.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\bin\Debug\net7.0\returnvalue.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\bin\Debug\net7.0\returnvalue.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\refint\returnvalue.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\returnvalue.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\returnvalue\obj\Debug\net7.0\ref\returnvalue.dll

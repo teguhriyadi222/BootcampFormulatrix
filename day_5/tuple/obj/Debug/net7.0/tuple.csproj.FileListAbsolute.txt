@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\bin\Debug\net7.0\tuple.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\bin\Debug\net7.0\tuple.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\bin\Debug\net7.0\tuple.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\bin\Debug\net7.0\tuple.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\bin\Debug\net7.0\tuple.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\refint\tuple.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\tuple.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\tuple\obj\Debug\net7.0\ref\tuple.dll

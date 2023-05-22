@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\bin\Debug\net7.0\classdanstruct.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\bin\Debug\net7.0\classdanstruct.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\bin\Debug\net7.0\classdanstruct.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\bin\Debug\net7.0\classdanstruct.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\bin\Debug\net7.0\classdanstruct.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\refint\classdanstruct.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\classdanstruct.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_5\classdanstruct\obj\Debug\net7.0\ref\classdanstruct.dll
