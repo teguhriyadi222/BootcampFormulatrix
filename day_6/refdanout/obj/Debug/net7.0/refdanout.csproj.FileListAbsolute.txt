@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\bin\Debug\net7.0\refdanout.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\bin\Debug\net7.0\refdanout.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\bin\Debug\net7.0\refdanout.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\bin\Debug\net7.0\refdanout.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\bin\Debug\net7.0\refdanout.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refint\refdanout.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\refdanout.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\refdanout\obj\Debug\net7.0\ref\refdanout.dll

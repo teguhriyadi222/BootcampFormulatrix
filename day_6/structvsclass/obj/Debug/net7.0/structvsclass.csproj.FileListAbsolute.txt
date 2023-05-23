@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\bin\Debug\net7.0\structvsclass.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\bin\Debug\net7.0\structvsclass.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\bin\Debug\net7.0\structvsclass.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\bin\Debug\net7.0\structvsclass.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\bin\Debug\net7.0\structvsclass.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\refint\structvsclass.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\structvsclass.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\structvsclass\obj\Debug\net7.0\ref\structvsclass.dll

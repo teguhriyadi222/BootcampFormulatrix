@@ -35,7 +35,7 @@ class Program
     static void Main(string[] args)
     {
         // Penggunaan kelas
-        Person person;
+        Person person = new Person();
         person.Name = "John";
         person.Age = 25;
         person.SayHello();

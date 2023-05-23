@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\bin\Debug\net7.0\object.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\bin\Debug\net7.0\object.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\bin\Debug\net7.0\object.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\bin\Debug\net7.0\object.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\bin\Debug\net7.0\object.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\refint\object.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\object.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_6\object\obj\Debug\net7.0\ref\object.dll
