@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\bin\Debug\net7.0\delegate3.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\bin\Debug\net7.0\delegate3.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\bin\Debug\net7.0\delegate3.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\bin\Debug\net7.0\delegate3.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\bin\Debug\net7.0\delegate3.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\refint\delegate3.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\delegate3.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_7\delegate3\obj\Debug\net7.0\ref\delegate3.dll
