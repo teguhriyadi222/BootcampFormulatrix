@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\bin\Debug\net7.0\enum2.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\bin\Debug\net7.0\enum2.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\bin\Debug\net7.0\enum2.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\bin\Debug\net7.0\enum2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\bin\Debug\net7.0\enum2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\refint\enum2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\enum2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\enum2\obj\Debug\net7.0\ref\enum2.dll

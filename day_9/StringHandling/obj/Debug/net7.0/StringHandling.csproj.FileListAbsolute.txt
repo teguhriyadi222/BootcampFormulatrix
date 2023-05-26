@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\bin\Debug\net7.0\StringHandling.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\bin\Debug\net7.0\StringHandling.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\bin\Debug\net7.0\StringHandling.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\bin\Debug\net7.0\StringHandling.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\bin\Debug\net7.0\StringHandling.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\refint\StringHandling.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\StringHandling.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\StringHandling\obj\Debug\net7.0\ref\StringHandling.dll

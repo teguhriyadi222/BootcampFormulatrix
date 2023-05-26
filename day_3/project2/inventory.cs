@@ -10,7 +10,7 @@ class barang
 
 }
 
-class baran2 : Barang {
+class baran2 : barang {
 
     public string name { get; set; }
 }

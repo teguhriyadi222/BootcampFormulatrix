@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\bin\Debug\net7.0\tryexception.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\bin\Debug\net7.0\tryexception.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\bin\Debug\net7.0\tryexception.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\bin\Debug\net7.0\tryexception.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\bin\Debug\net7.0\tryexception.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\refint\tryexception.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\tryexception.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_8\tryexception\obj\Debug\net7.0\ref\tryexception.dll

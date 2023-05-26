@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\bin\Debug\net7.0\DateandTime.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\bin\Debug\net7.0\DateandTime.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\bin\Debug\net7.0\DateandTime.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\bin\Debug\net7.0\DateandTime.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\bin\Debug\net7.0\DateandTime.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\refint\DateandTime.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\DateandTime.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_9\DateandTime\obj\Debug\net7.0\ref\DateandTime.dll

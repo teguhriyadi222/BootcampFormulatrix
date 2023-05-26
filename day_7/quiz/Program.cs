@@ -1,33 +1,36 @@
 ﻿
 class FooBar {
 
-    public int N {get; set; }
+    public int Jumlah {get; set; }
 
     public FooBar(int n) {
-        N = n;
+        Jumlah = n;
     }
 
-    public void Perintah() {
+    public void Perintah() 
+    {
+         Dictionary<int, string> dict = new Dictionary<int, string>()
+            {
+                {1, "foo"},
+                {2, "bar"},
+            };
 
-        for (int i = 1; i <= N; i++) {
 
-            if (i % 3 == 0 && i % 5 == 0) {
-                Console.Write("Foobar");
-            } else if (i % 5 == 0) {
+        for (int i = 1; i <= Jumlah; i++) 
+        {
+            string output = "";
 
-                Console.Write("Bar");
-
-            } else if(i % 3 == 0) {
-
-                Console.Write("Foo");
-
-            } else {
-
-                Console.Write(i);
+            foreach (var item in dict)
+            {
+                if (i % item.key == 0)
+                {
+                    output += item.value;
+                }
+                if (string.IsNullOrEmpty(output))
+                {
+                    output = i.ToString();
+                }
             }
-
-            Console.Write(",");
-
         }
 
     }
@@ -37,13 +40,11 @@ class Program {
 
     static void Main() {
 
-       
-
+    
         Console.WriteLine("masukan nilai n : ");
         int n = int.Parse(Console.ReadLine());
-         FooBar bar = new FooBar(n);
-
-         bar.Perintah();
+        FooBar bar = new FooBar(n);
+        bar.Perintah();
 
     }
 
