@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\bin\Debug\net7.0\Dictionary2.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\bin\Debug\net7.0\Dictionary2.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\bin\Debug\net7.0\Dictionary2.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\bin\Debug\net7.0\Dictionary2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\bin\Debug\net7.0\Dictionary2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\refint\Dictionary2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\Dictionary2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\Dictionary2\obj\Debug\net7.0\ref\Dictionary2.dll

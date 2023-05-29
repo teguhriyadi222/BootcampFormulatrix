@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\bin\Debug\net7.0\ArrayList2.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\bin\Debug\net7.0\ArrayList2.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\bin\Debug\net7.0\ArrayList2.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\bin\Debug\net7.0\ArrayList2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\bin\Debug\net7.0\ArrayList2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\refint\ArrayList2.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ArrayList2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\day_10\ArrayList2\obj\Debug\net7.0\ref\ArrayList2.dll
