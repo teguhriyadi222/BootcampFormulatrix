@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\bin\Debug\net7.0\Monopoly.exe
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\bin\Debug\net7.0\Monopoly.deps.json
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\bin\Debug\net7.0\Monopoly.runtimeconfig.json
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\bin\Debug\net7.0\Monopoly.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\bin\Debug\net7.0\Monopoly.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\refint\Monopoly.dll
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.pdb
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\Monopoly.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\bootcamp teguh\Monopoly\obj\Debug\net7.0\ref\Monopoly.dll

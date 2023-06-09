@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj": {}
+    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj": {
+    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj",
         "projectName": "project1",
-        "projectPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj",
+        "projectPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\project1.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\obj\\",
+        "outputPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_3\\day3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

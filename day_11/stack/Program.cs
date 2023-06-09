@@ -3,8 +3,12 @@ namespace navigation
 {
     class Program
     {
-        static void Main()
+        static async void Main()
         {
+            while (true)
+            {
+
+            
             Navigation stack = new Navigation();
             stack.MyEvents += PrintMassage ;
             string massage;
@@ -31,6 +35,8 @@ namespace navigation
             {
                 Console.WriteLine("Page Navigated to " + page);
             }
+        }
+        await Task.Delay(1000);
         }
 
     }

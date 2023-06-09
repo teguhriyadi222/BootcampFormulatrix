@@ -32,7 +32,7 @@ namespace navigation
                 _navigationStack.Pop();
                 Page previousPage = _navigationStack.Peek();
                 MyEvents?.Invoke(previousPage);
-                return "Navigation back to " + previousPage;
+                                                                                                                                     
             }
             else
             {
