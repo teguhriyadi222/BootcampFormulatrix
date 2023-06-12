@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj": {}
+    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj": {
+    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj",
         "projectName": "Thread",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj",
+        "projectPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\Thread.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\obj\\",
+        "outputPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\Thread\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

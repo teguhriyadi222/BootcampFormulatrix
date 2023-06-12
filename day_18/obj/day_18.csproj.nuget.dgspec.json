@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj": {}
+    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj": {
+    "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj",
         "projectName": "day_18",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj",
+        "projectPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\day_18.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\obj\\",
+        "outputPath": "c:\\Users\\Batch 2\\Documents\\bootcamp teguh\\day_18\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
