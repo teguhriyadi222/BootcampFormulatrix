@@ -63,8 +63,11 @@ class Weather
 
 class Program
 {
-    static void Main()
+    static async Task Main()
     {
+        CancellationTokenSource cts = new CancellationTokenSource();
+        CancellationToken token = cts.Token;
+
         Console.WriteLine("Welcome to the Weather Program");
         Console.WriteLine("1.January");
         Console.WriteLine("2.February");
@@ -89,18 +92,37 @@ class Program
 
             Task task1 = Task.Run(() => PrintWelcomeMessage());
             Task task2 = Task.Run(() => PrintTime(stopwatch.Elapsed));
+            Task Complate = await Task.WhenAny(task1, task2);
+            Console.WriteLine("First Complate Task: " + (Complate == task1 ? "Task1" : "Task2"));
 
-            Month selectedMonth = (Month)(monthNumber - 1);
-            Weather weather = Weather.GetWeather(selectedMonth);
-            Console.WriteLine($"Weather in {selectedMonth}: {weather.Description}");
+            Console.WriteLine("Press 'C' to cancel the task:");
 
-            Task.WaitAll(task1, task2);
+            Task task3 = Task.Run(async () =>
+            {
+                Month selectedMonth = (Month)(monthNumber - 1);
+                Weather weather = Weather.GetWeather(selectedMonth);
+                Console.WriteLine($"Weather in {selectedMonth}: {weather.Description}");
 
+                await Task.Delay(3000); 
+
+                if (!token.IsCancellationRequested)
+                {
+                    Console.WriteLine("Task completed");
+                }
+            }, token);
+
+            ConsoleKeyInfo key = Console.ReadKey();
+
+            if (key.KeyChar == 'C' || key.KeyChar == 'c')
+            {
+                cts.Cancel();
+            }
+
+            await task3;
             stopwatch.Stop();
-
             Console.WriteLine($"IsCompleted: {task1.IsCompleted}");
             Console.WriteLine($"IsFaulted: {task1.IsFaulted}");
-            Console.WriteLine($"IsCanceled: {task1.IsCanceled}");
+            Console.WriteLine($"IsCanceled: {task2.IsCanceled}");
             Console.WriteLine($"Program complete. Elapsed time: {stopwatch.ElapsedMilliseconds} ms");
         }
         else
@@ -109,8 +131,9 @@ class Program
         }
     }
 
-    static void PrintWelcomeMessage()
+    static async Task PrintWelcomeMessage()
     {
+        await Task.Delay(5000);
         Console.WriteLine("Welcome to the Weather Program");
         Console.WriteLine();
     }
@@ -118,5 +141,17 @@ class Program
     static void PrintTime(TimeSpan time)
     {
         Console.WriteLine($"Execution Time: {time}");
+    }
+
+    static async Task Weather2(CancellationToken token)
+    {
+        for (int i = 0; i < 10; i++)
+        {
+            token.ThrowIfCancellationRequested();
+
+            Console.WriteLine($"Work in progress: {i * 10}%");
+            await Task.Delay(500, token);
+        }
+
     }
 }
